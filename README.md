@@ -33,7 +33,17 @@ Projekat u okviru kursa Računarske mreže na IV godini I smera Matematičkog fa
 
 :warning: Server ćebiti nestabilan dana 10. januara, zbog testiranja uoči obrane zakazane za 11. januar.
 
+:warning: U trenutnoj fazi, za ispravno funkcionisanje aplikacije, neophodno je da svi korisnici odobre pristup kameri i mikrofonu.
+
+:warning: Sajt nije optimizovan za manje veličine ekrana. Ako ne vidite sadržaj kao što je prikazan u demo-u ispod, molim vas da koristite Ctrl+- za prilagodjavanje sadržaja. Ovo će biti popravljeno čim prodje ispitni rok!
+
 Projekat je dostupan uzivo na sledecem [linku](https://online-meeting-rooms.netlify.app/).
+
+## :computer: Prikaz rada aplikacije
+
+![Prikaz rada aplikacije 1](./prikaz_rada_aplikacije1.gif)
+
+![Prikaz rada aplikacije 2](./prikaz_rada_aplikacije2.gif)
 
 ## 🔨 Probaj lokalno
 

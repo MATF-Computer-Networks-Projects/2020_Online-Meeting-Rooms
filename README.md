@@ -1,3 +1,6 @@
+[![Build Status][build-badge]][build]
+[![downloads][downloads-badge]][npmcharts] [![version][version-badge]][package]
+
 # 2020_Online-Meeting-Rooms
 Zoom/Webex klon. Sa glavne stranice se bira soba. U sobi postoji grid sa video snimcima, koji poticu uzivo sa veb kamerica ljudi prisutnih u sobi. Pre ulaska u samu sobu postoji stranica za podesavanja kamerice i mikrofona, kako bi postojala mogucnost za gasenje kamerice i/ili mutovanje mikrofona. U sobi pored video sastanka postoji i cet. Dizajn i prototip veb aplikacije je vec uradjen (90%) u Adobe XD-u, tako da cete vec prilikom nakon prvog komita, biti u mogucnosti da pogledate sta ce i kako aplikacija raditi.
 
@@ -5,7 +8,7 @@ Zoom/Webex klon. Sa glavne stranice se bira soba. U sobi postoji grid sa video s
 
 ## :earth_africa: Probaj online
 
-Projekat je live na sledecem [linku](https://online-meeting-rooms.netlify.app/).
+Projekat je dostupan uzivo na sledecem [linku](https://online-meeting-rooms.netlify.app/).
 
 ## 🔨 Probaj lokalno
 

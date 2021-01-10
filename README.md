@@ -1,10 +1,30 @@
-[![Build Status][build-badge]][build]
-[![downloads][downloads-badge]][npmcharts] [![version][version-badge]][package]
-
-# 2020_Online-Meeting-Rooms
-Zoom/Webex klon. Sa glavne stranice se bira soba. U sobi postoji grid sa video snimcima, koji poticu uzivo sa veb kamerica ljudi prisutnih u sobi. Pre ulaska u samu sobu postoji stranica za podesavanja kamerice i mikrofona, kako bi postojala mogucnost za gasenje kamerice i/ili mutovanje mikrofona. U sobi pored video sastanka postoji i cet. Dizajn i prototip veb aplikacije je vec uradjen (90%) u Adobe XD-u, tako da cete vec prilikom nakon prvog komita, biti u mogucnosti da pogledate sta ce i kako aplikacija raditi.
-
 # Projekat Online Meeting Rooms
+
+Projekat u okviru kursa Računarske mreže na IV godini I smera Matematičkog fakulteta. Izabrana tema je alat za sastanke, koji svojim korisnicima omogućava da bez  naloga prave nove sobe za sastanke i pridružuju se postojećim. Sobe koje su već kreirane mogu se pregledati na početnoj strani, a korisnici koji su već u nekoj od napravljenih soba mogu kopirati url adresu na kojoj se nalaze i poslati drugima, kako bi se novi korisnici lakše pridružili željenoj sobi.
+
+## :electric_plug: Korišćene tehnologije i alati
+
+- Design
+  - Adobe XD
+
+- Frontend
+  - React.js
+
+    Biblioteke:
+      - styled-components (za pisanje css u okviru React komponenti)
+      - redux (za state management)
+      - framer-motion (za animacije)
+      - react-router (za rutiranje single page aplikacije)
+    
+- Backend
+  - Node.js
+
+    Biblioteke:
+      - express (za implementaciju servera)
+      - socket.io (za sokete)
+      - peer.js (za direktnu vezu izmedju klijenata, putem WebRTC protokola, za prenos videa)
+  
+  
 
 ## :earth_africa: Probaj online
 

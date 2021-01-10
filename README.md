@@ -24,9 +24,14 @@ Projekat u okviru kursa Računarske mreže na IV godini I smera Matematičkog fa
       - socket.io (za sokete)
       - peer.js (za direktnu vezu izmedju klijenata, putem WebRTC protokola, za prenos videa)
   
+- Deployment
+  - Netlify (za klijentski deo)
+  - Heroku (za server)
   
 
 ## :earth_africa: Probaj online
+
+:warning: Server ćebiti nestabilan dana 10. januara, zbog testiranja uoči obrane zakazane za 11. januar.
 
 Projekat je dostupan uzivo na sledecem [linku](https://online-meeting-rooms.netlify.app/).
 
